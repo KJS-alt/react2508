@@ -1,0 +1,58 @@
+/* Car */
+[class^="car-"] {
+  border: 2px solid green;
+}
+.car-a {
+  background-color: aqua;
+}
+.car-b {
+  background-color: red;
+}
+.car-c {
+  background-color: blue;
+}
+.car-d {
+  background-color: gray;
+}
+
+
+/* 박스 */
+div{
+  margin: 20px;
+}
+.size-small {
+width: 50px;
+height: 30px;
+background-color: orange;
+}
+.size-big {
+  width: 100px;
+  height: 30px;
+  background-color: yellow;
+  border: 1px dotted orange;
+}
+/* .box {
+  background-color: red;
+} */
+
+
+
+/* 버튼 */
+.bg-green {
+  background-color: green;
+  color: white;
+  border: none;
+  margin: 5px;
+}
+.bg-red {
+  background-color: red;
+  color: white;
+  border: none;
+  margin: 5px;
+}
+.bg-orange {
+  background-color: orange;
+  color: white;
+  border: none;
+  margin: 5px;
+}
